@@ -7,7 +7,7 @@
     -大概的过程就是添加子目录、添加库并将.cpp文件入库、添加头文件包含目录、链接库、生成可执行文件。
 
 ### 1. 添加子目录
-
+使用命令 `add_subdirectory` 添加子目录
     -使用命令 `add_subdirectory` 添加子目录，这样就可以在子目录中使用 add_library、target_include_directories、target_link_libraries 等命令了。
 
 ### 2. 添加库并将.cpp文件入库
