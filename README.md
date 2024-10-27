@@ -56,7 +56,7 @@ a record when I was learning cmake
 
 ### 8. target_link_directories
 
--使用 target_link_directories 命令可以添加库文件路径，这个命令是比较推荐的，因为它是针对某个目标的，而不是全局的。
+    -使用 target_link_directories 命令可以添加库文件路径，这个命令是比较推荐的，因为它是针对某个目标的，而不是全局的。
 
 ### 9. target_link_libraries
 
